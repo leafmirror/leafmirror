@@ -1,7 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=no-serve-people&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 ### Hi,here
-Now i am a web3 coder
+Now i am a devops coder
 
 
 
