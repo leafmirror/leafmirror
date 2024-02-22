@@ -3,5 +3,8 @@
 
 I am a fullstack developer from China
 
+- 🎉 Welcome to my GitHub profile!
 - 🔭 I’m currently working in Hangzhou
+- 👨🏻‍💻 I'm remember - a Go/PHP/VUE/REACT/NODEJS developer
+- 🌱 I’m currently all in web3
 
